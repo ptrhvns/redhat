@@ -1,3 +1,3 @@
-Workspace for learning Red Hat Linux.
+Red Hat Linux workspace.
 
 The `.apkg` file is an Anki deck.
